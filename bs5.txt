@@ -1,4 +1,4 @@
-bs new changes for conflict
+bs shold be conflicting
 bs
 bs
 bs
