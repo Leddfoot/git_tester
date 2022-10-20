@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 bullsh should be conflicting
+=======
+bullsh new changes for conflict
+>>>>>>> master
 bullshitbullshit
 bul
 bullshit
